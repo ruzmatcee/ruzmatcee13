@@ -47,7 +47,7 @@
                         <img src="../assets/imgs/6.png" alt="" class="w-16 opacity-[.5] -rotate-90" />
                     </span>
                     <div class="grid gap-y-4 text-white">
-                        <h1 class="text-2xl font-semibold capitalize">Texnik yordam 12 OY</h1>
+                        <h1 class="text-2xl font-semibold ">Texnik yordam 12 oy</h1>
                         <p>Buyurtmani bajargach, biz mijozni tark etmaymiz. Saytni ishga tushirganimizdan so’ng, biz bir yil davomida texnik yordam va xavfsizlikni bepul ta’minlaymiz</p>
                     </div>
                 </div>
@@ -95,61 +95,61 @@
                 <div class="box relative bg-[#1d1d1d] dark:bg-[#323131] flex justify-center items-center">
                     <div class="item py-4 px-6">
                         <h4 class="flex items-center text-5xl sm:text-6xl lg:text-7xl dark:webkit-text-stroke webkit-text-stroke-dark text-white dark:text-[#1d1d1d] whitespace-nowrap m-0">
-                            <span>Amazing Design</span>
+                            <span>Biz bilan yanada osonroq</span>
                             <span class="text-4xl mt-4 lg:mt-7 sm:text-5xl lg:text-7xl ml-[50px] stroke icon">*</span>
                         </h4>
                     </div>
                     <div class="item py-4 px-6">
                         <h4 class="flex items-center text-5xl sm:text-6xl lg:text-7xl dark:webkit-text-stroke webkit-text-stroke-dark text-white dark:text-[#1d1d1d] whitespace-nowrap m-0">
-                            <span>Amazing Design</span>
+                            <span>Biz bilan yanada osonroq</span>
                             <span class="text-4xl mt-4 lg:mt-7 sm:text-5xl lg:text-7xl ml-[50px] stroke icon">*</span>
                         </h4>
                     </div>
                     <div class="item py-4 px-6">
                         <h4 class="flex items-center text-5xl sm:text-6xl lg:text-7xl dark:webkit-text-stroke webkit-text-stroke-dark text-white dark:text-[#1d1d1d] whitespace-nowrap m-0">
-                            <span>Amazing Design</span>
+                            <span>Biz bilan yanada osonroq</span>
                             <span class="text-4xl mt-4 lg:mt-7 sm:text-5xl lg:text-7xl ml-[50px] stroke icon">*</span>
                         </h4>
                     </div>
                     <div class="item py-4 px-6">
                         <h4 class="flex items-center text-5xl sm:text-6xl lg:text-7xl dark:webkit-text-stroke webkit-text-stroke-dark text-white dark:text-[#1d1d1d] whitespace-nowrap m-0">
-                            <span>Amazing Design</span>
+                            <span>Biz bilan yanada osonroq</span>
                             <span class="text-4xl mt-4 lg:mt-7 sm:text-5xl lg:text-7xl ml-[50px] stroke icon">*</span>
                         </h4>
                     </div>
                     <div class="item py-4 px-6">
                         <h4 class="flex items-center text-5xl sm:text-6xl lg:text-7xl dark:webkit-text-stroke webkit-text-stroke-dark text-white dark:text-[#1d1d1d] whitespace-nowrap m-0">
-                            <span>Amazing Design</span>
+                            <span>Biz bilan yanada osonroq</span>
                             <span class="text-4xl mt-4 lg:mt-7 sm:text-5xl lg:text-7xl ml-[50px] stroke icon">*</span>
                         </h4>
                     </div>
                     <div class="item py-4 px-6">
                         <h4 class="flex items-center text-5xl sm:text-6xl lg:text-7xl dark:webkit-text-stroke webkit-text-stroke-dark text-white dark:text-[#1d1d1d] whitespace-nowrap m-0">
-                            <span>Amazing Design</span>
+                            <span>Biz bilan yanada osonroq</span>
                             <span class="text-4xl mt-4 lg:mt-7 sm:text-5xl lg:text-7xl ml-[50px] stroke icon">*</span>
                         </h4>
                     </div>
                     <div class="item py-4 px-6">
                         <h4 class="flex items-center text-5xl sm:text-6xl lg:text-7xl dark:webkit-text-stroke webkit-text-stroke-dark text-white dark:text-[#1d1d1d] whitespace-nowrap m-0">
-                            <span>Amazing Design</span>
+                            <span>Biz bilan yanada osonroq</span>
                             <span class="text-4xl mt-4 lg:mt-7 sm:text-5xl lg:text-7xl ml-[50px] stroke icon">*</span>
                         </h4>
                     </div>
                     <div class="item py-4 px-6">
                         <h4 class="flex items-center text-5xl sm:text-6xl lg:text-7xl dark:webkit-text-stroke webkit-text-stroke-dark text-white dark:text-[#1d1d1d] whitespace-nowrap m-0">
-                            <span>Amazing Design</span>
+                            <span>Biz bilan yanada osonroq</span>
                             <span class="text-4xl mt-4 lg:mt-7 sm:text-5xl lg:text-7xl ml-[50px] stroke icon">*</span>
                         </h4>
                     </div>
                     <div class="item py-4 px-6">
                         <h4 class="flex items-center text-5xl sm:text-6xl lg:text-7xl dark:webkit-text-stroke webkit-text-stroke-dark text-white dark:text-[#1d1d1d] whitespace-nowrap m-0">
-                            <span>Amazing Design</span>
+                            <span>Biz bilan yanada osonroq</span>
                             <span class="text-4xl mt-4 lg:mt-7 sm:text-5xl lg:text-7xl ml-[50px] stroke icon">*</span>
                         </h4>
                     </div>
                     <div class="item py-4 px-6">
                         <h4 class="flex items-center text-5xl sm:text-6xl lg:text-7xl dark:webkit-text-stroke webkit-text-stroke-dark text-white dark:text-[#1d1d1d] whitespace-nowrap m-0">
-                            <span>Amazing Design</span>
+                            <span>Biz bilan yanada osonroq</span>
                             <span class="text-4xl mt-4 lg:mt-7 sm:text-5xl lg:text-7xl ml-[50px] stroke icon">*</span>
                         </h4>
                     </div>

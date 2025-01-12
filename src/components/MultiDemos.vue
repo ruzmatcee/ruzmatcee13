@@ -28,7 +28,8 @@
                                 Now</a>
                         </div>
                     </div>
-                    <h2 class="mt-4 text-xl text-center font-semibold text-white capitalize ">Block of Ui kit
+                    <h2 class="mt-4 text-xl text-center font-semibold dark:text-white text-black capitalize ">Block of Ui
+                        kit
                         collections </h2>
                     <div class="flex justify-center relative items-center ">
                         <p class="mt-2 text-lg  uppercase ">Ui kit</p>
@@ -44,7 +45,8 @@
                                 Now</a>
                         </div>
                     </div>
-                    <h2 class="mt-4 text-xl text-center font-semibold text-white capitalize ">Block of Ui kit
+                    <h2 class="mt-4 text-xl text-center font-semibold dark:text-white text-black capitalize ">Block of Ui
+                        kit
                         collections </h2>
                     <div class="flex justify-center relative items-center ">
                         <p class="mt-2 text-lg  uppercase ">Ui kit</p>
@@ -60,7 +62,8 @@
                                 Now</a>
                         </div>
                     </div>
-                    <h2 class="mt-4 text-xl text-center font-semibold text-white capitalize ">Block of Ui kit
+                    <h2 class="mt-4 text-xl text-center font-semibold dark:text-white text-black capitalize ">Block of Ui
+                        kit
                         collections </h2>
                     <div class="flex justify-center relative items-center ">
                         <p class="mt-2 text-lg  uppercase ">Ui kit</p>
@@ -76,7 +79,8 @@
                                 Now</a>
                         </div>
                     </div>
-                    <h2 class="mt-4 text-xl text-center font-semibold text-white capitalize ">Block of Ui kit
+                    <h2 class="mt-4 text-xl text-center font-semibold dark:text-white text-black capitalize ">Block of Ui
+                        kit
                         collections </h2>
                     <div class="flex justify-center relative items-center ">
                         <p class="mt-2 text-lg  uppercase ">Ui kit</p>
@@ -92,7 +96,8 @@
                                 Now</a>
                         </div>
                     </div>
-                    <h2 class="mt-4 text-xl text-center font-semibold text-white capitalize ">Block of Ui kit
+                    <h2 class="mt-4 text-xl text-center font-semibold dark:text-white text-black capitalize ">Block of Ui
+                        kit
                         collections </h2>
                     <div class="flex justify-center relative items-center ">
                         <p class="mt-2 text-lg  uppercase ">Ui kit</p>
@@ -108,7 +113,8 @@
                                 Now</a>
                         </div>
                     </div>
-                    <h2 class="mt-4 text-xl text-center font-semibold text-white capitalize ">Block of Ui kit
+                    <h2 class="mt-4 text-xl text-center font-semibold dark:text-white text-black capitalize ">Block of Ui
+                        kit
                         collections </h2>
                     <div class="flex justify-center relative items-center ">
                         <p class="mt-2 text-lg  uppercase ">Ui kit</p>
@@ -124,7 +130,8 @@
                                 Now</a>
                         </div>
                     </div>
-                    <h2 class="mt-4 text-xl text-center font-semibold text-white capitalize ">Block of Ui kit
+                    <h2 class="mt-4 text-xl text-center font-semibold dark:text-white text-black capitalize ">Block of Ui
+                        kit
                         collections </h2>
                     <div class="flex justify-center relative items-center ">
                         <p class="mt-2 text-lg  uppercase ">Ui kit</p>
@@ -140,7 +147,8 @@
                                 Now</a>
                         </div>
                     </div>
-                    <h2 class="mt-4 text-xl text-center font-semibold text-white capitalize ">Block of Ui kit
+                    <h2 class="mt-4 text-xl text-center font-semibold dark:text-white text-black capitalize ">Block of Ui
+                        kit
                         collections </h2>
                     <div class="flex justify-center relative items-center ">
                         <p class="mt-2 text-lg  uppercase ">Ui kit</p>
@@ -156,7 +164,8 @@
                                 Now</a>
                         </div>
                     </div>
-                    <h2 class="mt-4 text-xl text-center font-semibold text-white capitalize ">Block of Ui kit
+                    <h2 class="mt-4 text-xl text-center font-semibold dark:text-white text-black capitalize ">Block of Ui
+                        kit
                         collections </h2>
                     <div class="flex justify-center relative items-center ">
                         <p class="mt-2 text-lg  uppercase ">Ui kit</p>
@@ -184,14 +193,14 @@
             <!-- Grid -->
             <div class="grid sm:grid-cols-2 gap-4 lg:items-start">
                 <!-- Card -->
-                <div class="flex flex-col border border-gray-200 text-start rounded-xl p-8 dark:border-neutral-800">
+                <div class="flex flex-col border border-neutral-400 text-start rounded-xl p-8 dark:border-neutral-800">
                     <h4 class="font-medium text-2xl text-gray-800 dark:text-neutral-200">Lending</h4>
                     <p class="mt-2 text-lg text-gray-500 dark:text-neutral-500">1 sahifa</p>
 
                     <ul class="mt-7 space-y-2.5 text-lg">
 
                         <li class="flex gap-x-2">
-                            <svg class="shrink-0 mt-0.5 size-4 text-blue-600 dark:text-blue-500"
+                            <svg class="shrink-0 mt-2 size-4 text-blue-600 dark:text-blue-500"
                                 xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <polyline points="20 6 9 17 4 12" />
@@ -202,7 +211,7 @@
                         </li>
 
                         <li class="flex gap-x-2">
-                            <svg class="shrink-0 mt-0.5 size-4 text-blue-600 dark:text-blue-500"
+                            <svg class="shrink-0 mt-2 size-4 text-blue-600 dark:text-blue-500"
                                 xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <polyline points="20 6 9 17 4 12" />
@@ -213,7 +222,7 @@
                         </li>
 
                         <li class="flex gap-x-2">
-                            <svg class="shrink-0 mt-0.5 size-4 text-blue-600 dark:text-blue-500"
+                            <svg class="shrink-0 mt-2 size-4 text-blue-600 dark:text-blue-500"
                                 xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <polyline points="20 6 9 17 4 12" />
@@ -224,7 +233,7 @@
                         </li>
 
                         <li class="flex gap-x-2">
-                            <svg class="shrink-0 mt-0.5 size-4 text-blue-600 dark:text-blue-500"
+                            <svg class="shrink-0 mt-2 size-4 text-blue-600 dark:text-blue-500"
                                 xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <polyline points="20 6 9 17 4 12" />
@@ -235,7 +244,7 @@
                         </li>
 
                         <li class="flex gap-x-2">
-                            <svg class="shrink-0 mt-0.5 size-4 text-blue-600 dark:text-blue-500"
+                            <svg class="shrink-0 mt-2 size-4 text-blue-600 dark:text-blue-500"
                                 xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <polyline points="20 6 9 17 4 12" />
@@ -246,7 +255,7 @@
                         </li>
 
                         <li class="flex gap-x-2">
-                            <svg class="shrink-0 mt-0.5 size-4 text-blue-600 dark:text-blue-500"
+                            <svg class="shrink-0 mt-2 size-4 text-blue-600 dark:text-blue-500"
                                 xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <polyline points="20 6 9 17 4 12" />
@@ -257,7 +266,7 @@
                         </li>
 
                         <li class="flex gap-x-2">
-                            <svg class="shrink-0 mt-0.5 size-4 text-blue-600 dark:text-blue-500"
+                            <svg class="shrink-0 mt-2 size-4 text-blue-600 dark:text-blue-500"
                                 xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <polyline points="20 6 9 17 4 12" />
@@ -268,13 +277,13 @@
                         </li>
 
                         <li class="flex gap-x-2">
-                            <svg class="shrink-0 mt-0.5 size-4 text-blue-600 dark:text-blue-500"
+                            <svg class="shrink-0 mt-2 size-4 text-blue-600 dark:text-blue-500"
                                 xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <polyline points="20 6 9 17 4 12" />
                             </svg>
                             <span class="text-gray-800 dark:text-neutral-400">
-                                Muddati – 7 kun
+                                Muddati – 3 ~ 4 kun
                             </span>
                         </li>
                     </ul>
@@ -283,7 +292,7 @@
                         400$ dan boshlanadi
                     </a>
 
-                    <a class="mt-5 py-3 px-4 inline-flex justify-center items-center gap-x-2 text-lg font-medium rounded-lg border border-gray-200 bg-white text-gray-800 shadow-sm hover:bg-gray-50 disabled:opacity-50 disabled:pointer-events-none focus:outline-none focus:bg-gray-50 dark:bg-transparent dark:border-neutral-700 dark:text-neutral-300 dark:hover:bg-neutral-800 dark:focus:bg-neutral-800"
+                    <a class="mt-5 py-3 px-4 inline-flex justify-center items-center gap-x-2 text-lg font-medium rounded-lg border border-gray-200 bg-neutral-800 text-gray-200 shadow-sm hover:bg-gray-50 disabled:opacity-50 disabled:pointer-events-none focus:outline-none focus:bg-gray-50 dark:bg-transparent dark:border-neutral-700 dark:text-neutral-300 dark:hover:bg-neutral-800 dark:focus:bg-neutral-800"
                         href="#">
                         Loyihani muhokama qilish
                     </a>
@@ -291,14 +300,14 @@
                 <!-- End Card -->
 
                 <!-- Card -->
-                <div class="flex flex-col border border-neutral-800 text-start rounded-xl p-8 dark:border-neutral-800">
+                <div class="flex flex-col border border-neutral-400 text-start rounded-xl p-8 dark:border-neutral-800">
                     <h4 class="font-medium text-2xl text-gray-800 dark:text-neutral-200">Sayt vizitka</h4>
                     <p class="mt-2 text-lg text-gray-500 dark:text-neutral-500"> 3 - 10 sahifa
                     </p>
 
                     <ul class="mt-7 space-y-2.5 text-lg">
                         <li class="flex gap-x-2">
-                            <svg class="shrink-0 mt-0.5 size-4 text-blue-600 dark:text-blue-500"
+                            <svg class="shrink-0 mt-2 size-4 text-blue-600 dark:text-blue-500"
                                 xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <polyline points="20 6 9 17 4 12" />
@@ -309,7 +318,7 @@
                         </li>
 
                         <li class="flex gap-x-2">
-                            <svg class="shrink-0 mt-0.5 size-4 text-blue-600 dark:text-blue-500"
+                            <svg class="shrink-0 mt-2 size-4 text-blue-600 dark:text-blue-500"
                                 xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <polyline points="20 6 9 17 4 12" />
@@ -320,7 +329,7 @@
                         </li>
 
                         <li class="flex gap-x-2">
-                            <svg class="shrink-0 mt-0.5 size-4 text-blue-600 dark:text-blue-500"
+                            <svg class="shrink-0 mt-2 size-4 text-blue-600 dark:text-blue-500"
                                 xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <polyline points="20 6 9 17 4 12" />
@@ -332,7 +341,7 @@
 
 
                         <li class="flex gap-x-2">
-                            <svg class="shrink-0 mt-0.5 size-4 text-blue-600 dark:text-blue-500"
+                            <svg class="shrink-0 mt-2 size-4 text-blue-600 dark:text-blue-500"
                                 xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <polyline points="20 6 9 17 4 12" />
@@ -343,7 +352,7 @@
                         </li>
 
                         <li class="flex gap-x-2">
-                            <svg class="shrink-0 mt-0.5 size-4 text-blue-600 dark:text-blue-500"
+                            <svg class="shrink-0 mt-2 size-4 text-blue-600 dark:text-blue-500"
                                 xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <polyline points="20 6 9 17 4 12" />
@@ -354,7 +363,7 @@
                         </li>
 
                         <li class="flex gap-x-2">
-                            <svg class="shrink-0 mt-0.5 size-4 text-blue-600 dark:text-blue-500"
+                            <svg class="shrink-0 mt-2 size-4 text-blue-600 dark:text-blue-500"
                                 xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <polyline points="20 6 9 17 4 12" />
@@ -365,7 +374,7 @@
                         </li>
 
                         <li class="flex gap-x-2">
-                            <svg class="shrink-0 mt-0.5 size-4 text-blue-600 dark:text-blue-500"
+                            <svg class="shrink-0 mt-2 size-4 text-blue-600 dark:text-blue-500"
                                 xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <polyline points="20 6 9 17 4 12" />
@@ -376,7 +385,7 @@
                         </li>
 
                         <li class="flex gap-x-2">
-                            <svg class="shrink-0 mt-0.5 size-4 text-blue-600 dark:text-blue-500"
+                            <svg class="shrink-0 mt-2 size-4 text-blue-600 dark:text-blue-500"
                                 xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <polyline points="20 6 9 17 4 12" />
@@ -388,13 +397,13 @@
 
 
                         <li class="flex gap-x-2">
-                            <svg class="shrink-0 mt-0.5 size-4 text-blue-600 dark:text-blue-500"
+                            <svg class="shrink-0 mt-2 size-4 text-blue-600 dark:text-blue-500"
                                 xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <polyline points="20 6 9 17 4 12" />
                             </svg>
                             <span class="text-gray-800 dark:text-neutral-400">
-                                Muddati – 10 kun
+                                Muddati – 10 ~ 15 kun
                             </span>
                         </li>
 
@@ -404,7 +413,7 @@
                         600$ dan boshlanadi
                     </a>
 
-                    <a class="mt-5 py-3 px-4 inline-flex justify-center items-center gap-x-2 text-lg font-medium rounded-lg border border-gray-200 bg-white text-gray-800 shadow-sm hover:bg-gray-50 disabled:opacity-50 disabled:pointer-events-none focus:outline-none focus:bg-gray-50 dark:bg-transparent dark:border-neutral-700 dark:text-neutral-300 dark:hover:bg-neutral-800 dark:focus:bg-neutral-800"
+                    <a class="mt-5 py-3 px-4 inline-flex justify-center items-center gap-x-2 text-lg font-medium rounded-lg border border-gray-200 bg-neutral-800 text-gray-200 shadow-sm hover:bg-gray-50 disabled:opacity-50 disabled:pointer-events-none focus:outline-none focus:bg-gray-50 dark:bg-transparent dark:border-neutral-700 dark:text-neutral-300 dark:hover:bg-neutral-800 dark:focus:bg-neutral-800"
                         href="#">
                         Loyihani muhokama qilish
                     </a>
@@ -412,7 +421,7 @@
                 <!-- End Card -->
 
                 <!-- Card -->
-                <div class="flex flex-col border border-gray-200 text-start rounded-xl p-8 dark:border-neutral-800">
+                <div class="flex flex-col border border-neutral-400 text-start rounded-xl p-8 dark:border-neutral-800">
                     <h4 class="font-medium text-2xl text-gray-800 dark:text-neutral-200">Korporativ</h4>
                     <p class="mt-2 text-lg text-gray-500 dark:text-neutral-500"> 10 - 100 sahifa
                     </p>
@@ -420,7 +429,7 @@
                     <ul class="mt-7 space-y-2.5 text-lg">
 
                         <li class="flex gap-x-2">
-                            <svg class="shrink-0 mt-0.5 size-4 text-blue-600 dark:text-blue-500"
+                            <svg class="shrink-0 mt-2 size-4 text-blue-600 dark:text-blue-500"
                                 xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <polyline points="20 6 9 17 4 12" />
@@ -431,7 +440,7 @@
                         </li>
 
                         <li class="flex gap-x-2">
-                            <svg class="shrink-0 mt-0.5 size-4 text-blue-600 dark:text-blue-500"
+                            <svg class="shrink-0 mt-2 size-4 text-blue-600 dark:text-blue-500"
                                 xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <polyline points="20 6 9 17 4 12" />
@@ -442,7 +451,7 @@
                         </li>
 
                         <li class="flex gap-x-2">
-                            <svg class="shrink-0 mt-0.5 size-4 text-blue-600 dark:text-blue-500"
+                            <svg class="shrink-0 mt-2 size-4 text-blue-600 dark:text-blue-500"
                                 xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <polyline points="20 6 9 17 4 12" />
@@ -454,7 +463,7 @@
 
 
                         <li class="flex gap-x-2">
-                            <svg class="shrink-0 mt-0.5 size-4 text-blue-600 dark:text-blue-500"
+                            <svg class="shrink-0 mt-2 size-4 text-blue-600 dark:text-blue-500"
                                 xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <polyline points="20 6 9 17 4 12" />
@@ -465,7 +474,7 @@
                         </li>
 
                         <li class="flex gap-x-2">
-                            <svg class="shrink-0 mt-0.5 size-4 text-blue-600 dark:text-blue-500"
+                            <svg class="shrink-0 mt-2 size-4 text-blue-600 dark:text-blue-500"
                                 xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <polyline points="20 6 9 17 4 12" />
@@ -476,7 +485,7 @@
                         </li>
 
                         <li class="flex gap-x-2">
-                            <svg class="shrink-0 mt-0.5 size-4 text-blue-600 dark:text-blue-500"
+                            <svg class="shrink-0 mt-2 size-4 text-blue-600 dark:text-blue-500"
                                 xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <polyline points="20 6 9 17 4 12" />
@@ -487,7 +496,7 @@
                         </li>
 
                         <li class="flex gap-x-2">
-                            <svg class="shrink-0 mt-0.5 size-4 text-blue-600 dark:text-blue-500"
+                            <svg class="shrink-0 mt-2 size-4 text-blue-600 dark:text-blue-500"
                                 xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <polyline points="20 6 9 17 4 12" />
@@ -498,7 +507,7 @@
                         </li>
 
                         <li class="flex gap-x-2">
-                            <svg class="shrink-0 mt-0.5 size-4 text-blue-600 dark:text-blue-500"
+                            <svg class="shrink-0 mt-2 size-4 text-blue-600 dark:text-blue-500"
                                 xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <polyline points="20 6 9 17 4 12" />
@@ -509,7 +518,7 @@
                         </li>
 
                         <li class="flex gap-x-2">
-                            <svg class="shrink-0 mt-0.5 size-4 text-blue-600 dark:text-blue-500"
+                            <svg class="shrink-0 mt-2 size-4 text-blue-600 dark:text-blue-500"
                                 xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <polyline points="20 6 9 17 4 12" />
@@ -520,13 +529,13 @@
                         </li>
 
                         <li class="flex gap-x-2">
-                            <svg class="shrink-0 mt-0.5 size-4 text-blue-600 dark:text-blue-500"
+                            <svg class="shrink-0 mt-2 size-4 text-blue-600 dark:text-blue-500"
                                 xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <polyline points="20 6 9 17 4 12" />
                             </svg>
                             <span class="text-gray-800 dark:text-neutral-400">
-                                Muddati – 14 kun
+                                Muddati – suhbat davomida kelishiladi
                             </span>
                         </li>
 
@@ -536,7 +545,7 @@
                         1000$ dan boshlanadi
                     </a>
 
-                    <a class="mt-5 py-3 px-4 inline-flex justify-center items-center gap-x-2 text-lg font-medium rounded-lg border border-gray-200 bg-white text-gray-800 shadow-sm hover:bg-gray-50 disabled:opacity-50 disabled:pointer-events-none focus:outline-none focus:bg-gray-50 dark:bg-transparent dark:border-neutral-700 dark:text-neutral-300 dark:hover:bg-neutral-800 dark:focus:bg-neutral-800"
+                    <a class="mt-5 py-3 px-4 inline-flex justify-center items-center gap-x-2 text-lg font-medium rounded-lg border border-gray-200 bg-neutral-800 text-gray-200 shadow-sm hover:bg-gray-50 disabled:opacity-50 disabled:pointer-events-none focus:outline-none focus:bg-gray-50 dark:bg-transparent dark:border-neutral-700 dark:text-neutral-300 dark:hover:bg-neutral-800 dark:focus:bg-neutral-800"
                         href="#">
                         Loyihani muhokama qilish
                     </a>
@@ -544,14 +553,14 @@
                 <!-- End Card -->
 
                 <!-- Card -->
-                <div class="flex flex-col border border-gray-200 text-start rounded-xl p-8 dark:border-neutral-800">
+                <div class="flex flex-col border border-neutral-400 text-start rounded-xl p-8 dark:border-neutral-800">
                     <h4 class="font-medium text-2xl text-gray-800 dark:text-neutral-200">Internet magazin</h4>
                     <p class="mt-2 text-lg text-gray-500 dark:text-neutral-500">100 - 1000 sahifa
                     </p>
 
                     <ul class="mt-7 space-y-2.5 text-lg">
                         <li class="flex gap-x-2">
-                            <svg class="shrink-0 mt-0.5 size-4 text-blue-600 dark:text-blue-500"
+                            <svg class="shrink-0 mt-2 size-4 text-blue-600 dark:text-blue-500"
                                 xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <polyline points="20 6 9 17 4 12" />
@@ -562,7 +571,7 @@
                         </li>
 
                         <li class="flex gap-x-2">
-                            <svg class="shrink-0 mt-0.5 size-4 text-blue-600 dark:text-blue-500"
+                            <svg class="shrink-0 mt-2 size-4 text-blue-600 dark:text-blue-500"
                                 xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <polyline points="20 6 9 17 4 12" />
@@ -573,7 +582,7 @@
                         </li>
 
                         <li class="flex gap-x-2">
-                            <svg class="shrink-0 mt-0.5 size-4 text-blue-600 dark:text-blue-500"
+                            <svg class="shrink-0 mt-2 size-4 text-blue-600 dark:text-blue-500"
                                 xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <polyline points="20 6 9 17 4 12" />
@@ -585,7 +594,7 @@
 
 
                         <li class="flex gap-x-2">
-                            <svg class="shrink-0 mt-0.5 size-4 text-blue-600 dark:text-blue-500"
+                            <svg class="shrink-0 mt-2 size-4 text-blue-600 dark:text-blue-500"
                                 xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <polyline points="20 6 9 17 4 12" />
@@ -596,7 +605,7 @@
                         </li>
 
                         <li class="flex gap-x-2">
-                            <svg class="shrink-0 mt-0.5 size-4 text-blue-600 dark:text-blue-500"
+                            <svg class="shrink-0 mt-2 size-4 text-blue-600 dark:text-blue-500"
                                 xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <polyline points="20 6 9 17 4 12" />
@@ -607,7 +616,7 @@
                         </li>
 
                         <li class="flex gap-x-2">
-                            <svg class="shrink-0 mt-0.5 size-4 text-blue-600 dark:text-blue-500"
+                            <svg class="shrink-0 mt-2 size-4 text-blue-600 dark:text-blue-500"
                                 xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <polyline points="20 6 9 17 4 12" />
@@ -618,7 +627,7 @@
                         </li>
 
                         <li class="flex gap-x-2">
-                            <svg class="shrink-0 mt-0.5 size-4 text-blue-600 dark:text-blue-500"
+                            <svg class="shrink-0 mt-2 size-4 text-blue-600 dark:text-blue-500"
                                 xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <polyline points="20 6 9 17 4 12" />
@@ -629,7 +638,7 @@
                         </li>
 
                         <li class="flex gap-x-2">
-                            <svg class="shrink-0 mt-0.5 size-4 text-blue-600 dark:text-blue-500"
+                            <svg class="shrink-0 mt-2 size-4 text-blue-600 dark:text-blue-500"
                                 xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <polyline points="20 6 9 17 4 12" />
@@ -640,7 +649,7 @@
                         </li>
 
                         <li class="flex gap-x-2">
-                            <svg class="shrink-0 mt-0.5 size-4 text-blue-600 dark:text-blue-500"
+                            <svg class="shrink-0 mt-2 size-4 text-blue-600 dark:text-blue-500"
                                 xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <polyline points="20 6 9 17 4 12" />
@@ -651,7 +660,7 @@
                         </li>
 
                         <li class="flex gap-x-2">
-                            <svg class="shrink-0 mt-0.5 size-4 text-blue-600 dark:text-blue-500"
+                            <svg class="shrink-0 mt-2 size-4 text-blue-600 dark:text-blue-500"
                                 xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <polyline points="20 6 9 17 4 12" />
@@ -662,7 +671,7 @@
                         </li>
 
                         <li class="flex gap-x-2">
-                            <svg class="shrink-0 mt-0.5 size-4 text-blue-600 dark:text-blue-500"
+                            <svg class="shrink-0 mt-2 size-4 text-blue-600 dark:text-blue-500"
                                 xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <polyline points="20 6 9 17 4 12" />
@@ -673,13 +682,13 @@
                         </li>
 
                         <li class="flex gap-x-2">
-                            <svg class="shrink-0 mt-0.5 size-4 text-blue-600 dark:text-blue-500"
+                            <svg class="shrink-0 mt-2 size-4 text-blue-600 dark:text-blue-500"
                                 xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <polyline points="20 6 9 17 4 12" />
                             </svg>
                             <span class="text-gray-800 dark:text-neutral-400">
-                                Muddati – 25 kun
+                                Muddati – suhbat davomida kelishiladi
                             </span>
                         </li>
 
@@ -689,7 +698,7 @@
                         2000$ dan boshlanadi
                     </a>
 
-                    <a class="mt-5 py-3 px-4 inline-flex justify-center items-center gap-x-2 text-lg font-medium rounded-lg border border-gray-200 bg-white text-gray-800 shadow-sm hover:bg-gray-50 disabled:opacity-50 disabled:pointer-events-none focus:outline-none focus:bg-gray-50 dark:bg-transparent dark:border-neutral-700 dark:text-neutral-300 dark:hover:bg-neutral-800 dark:focus:bg-neutral-800"
+                    <a class="mt-5 py-3 px-4 inline-flex justify-center items-center gap-x-2 text-lg font-medium rounded-lg border border-gray-200 bg-neutral-800 text-gray-200 shadow-sm hover:bg-gray-50 disabled:opacity-50 disabled:pointer-events-none focus:outline-none focus:bg-gray-50 dark:bg-transparent dark:border-neutral-700 dark:text-neutral-300 dark:hover:bg-neutral-800 dark:focus:bg-neutral-800"
                         href="#">
                         Loyihani muhokama qilish
                     </a>
@@ -702,10 +711,10 @@
     </section>
     <!-- End Price section -->
     <!-- Testimonials section -->
-    <section id="testimonials"
+    <!-- <section id="testimonials"
         class="container overflow-hidden relative py-10 lg:pt-32 lg:pb-20 mx-auto flex max-lg:flex-col">
         <div class="lg:w-1/3 flex flex-col gap-y-3 relative -top-5">
-            <p class="text-md lg:text-lg block font-medium uppercase tracking-wide">Testimonials</p>
+            <p class="text-md lg:text-lg block font-medium uppercase tracking-wide">Izohlar</p>
             <h1 class="hero_text text-2xl  md:text-3xl  lg:text-4xl dark:text-white text-black font-semibold">What
                 People Say?</h1>
         </div>
@@ -780,7 +789,7 @@
                 d="M-43 773.821C160.86 662.526 451.312 637.01 610.111 733.104C768.91 829.197 932.595 1062.9 602.782 1098.75C272.969 1134.6 676.888 25.4306 1852 1"
                 style="stroke-dasharray: 3246.53, 0;"></path>
         </svg>
-    </section>
+    </section> -->
     <!-- End Testimonial section -->
     <!-- FAQ section -->
     <section>
@@ -791,11 +800,12 @@
                 <div class="">
                     <!-- Accordion -->
                     <div class="hs-accordion-group divide-y divide-gray-200 dark:divide-neutral-700">
+                       
                         <div class="hs-accordion pb-3 active" id="hs-basic-with-title-and-arrow-stretched-heading-one">
                             <button
                                 class="hs-accordion-toggle group pb-3 inline-flex items-center justify-between gap-x-3 w-full md:text-lg font-semibold text-start text-gray-800 rounded-lg transition hover:text-gray-500 focus:outline-none focus:text-gray-500 dark:text-neutral-200 dark:hover:text-neutral-400 dark:focus:text-neutral-400"
                                 aria-expanded="true" aria-controls="hs-basic-with-title-and-arrow-stretched-collapse-one">
-                                Can I cancel at anytime?
+                                Sayt yaratish uchun qancha vaqt ketadi?
                                 <svg class="hs-accordion-active:hidden block shrink-0 size-5 text-gray-600 group-hover:text-gray-500 dark:text-neutral-400"
                                     xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
                                     fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
@@ -813,8 +823,12 @@
                                 class="hs-accordion-content w-full overflow-hidden transition-[height] duration-300"
                                 role="region" aria-labelledby="hs-basic-with-title-and-arrow-stretched-heading-one">
                                 <p class="text-gray-600 dark:text-neutral-400">
-                                    Yes, you can cancel anytime no questions are asked while you cancel but we would highly
-                                    appreciate if you will give us some feedback.
+                                    Bu, ehtimol, eng ko’p beriladigan savollardan biri. Veb-saytni ishlab chiqishga
+                                    sarflanadigan vaqt miqdori bir nechta omillarga bog’liq: sayt turi, dizaynning
+                                    murakkabligi, saytning funksionalligi, sayt tuzilishi, sahifalar soni. O’rtacha hisobda
+                                    Landing page ni yaratish uchun 3 kundan 7 kungacha, sayt-vizitkani – 5 kundan 10
+                                    kungacha, internet-magazin va korporativ veb-saytni yaratish uchun 20 kundan 30 kungacha
+                                    vaqt ketadi. Albatta, bu raqamlar taxminiydir.
                                 </p>
                             </div>
                         </div>
@@ -823,7 +837,7 @@
                             <button
                                 class="hs-accordion-toggle group pb-3 inline-flex items-center justify-between gap-x-3 w-full md:text-lg font-semibold text-start text-gray-800 rounded-lg transition hover:text-gray-500 focus:outline-none focus:text-gray-500 dark:text-neutral-200 dark:hover:text-neutral-400 dark:focus:text-neutral-400"
                                 aria-expanded="false" aria-controls="hs-basic-with-title-and-arrow-stretched-collapse-two">
-                                My team has credits. How do we use them?
+                                Keyinchalik saytni o'zim tahrir qila olamanmi?
                                 <svg class="hs-accordion-active:hidden block shrink-0 size-5 text-gray-600 group-hover:text-gray-500 dark:text-neutral-400"
                                     xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
                                     fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
@@ -841,8 +855,9 @@
                                 class="hs-accordion-content hidden w-full overflow-hidden transition-[height] duration-300"
                                 role="region" aria-labelledby="hs-basic-with-title-and-arrow-stretched-heading-two">
                                 <p class="text-gray-600 dark:text-neutral-400">
-                                    Once your team signs up for a subscription plan. This is where we sit down, grab a cup
-                                    of coffee and dial in the details.
+                                    Ha, albatta, sizga intuitiv darajada tushunarli va aniq bilimlarni talab qilmaydigan
+                                    juda qulay interfeysga ega bo’lgan saytni boshqarish tizimiga kirish imkoniyati va
+                                    foydalanish uchun ko’rsatmalar taqdim etiladi.
                                 </p>
                             </div>
                         </div>
@@ -852,7 +867,7 @@
                                 class="hs-accordion-toggle group pb-3 inline-flex items-center justify-between gap-x-3 w-full md:text-lg font-semibold text-start text-gray-800 rounded-lg transition hover:text-gray-500 focus:outline-none focus:text-gray-500 dark:text-neutral-200 dark:hover:text-neutral-400 dark:focus:text-neutral-400"
                                 aria-expanded="false"
                                 aria-controls="hs-basic-with-title-and-arrow-stretched-collapse-three">
-                                How does Preline's pricing work?
+                                Sayt topshirilgandan keyin uni qo'llab-quvvatlashni ta’minlaysizmi?
                                 <svg class="hs-accordion-active:hidden block shrink-0 size-5 text-gray-600 group-hover:text-gray-500 dark:text-neutral-400"
                                     xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
                                     fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
@@ -870,8 +885,8 @@
                                 class="hs-accordion-content hidden w-full overflow-hidden transition-[height] duration-300"
                                 role="region" aria-labelledby="hs-basic-with-title-and-arrow-stretched-heading-three">
                                 <p class="text-gray-600 dark:text-neutral-400">
-                                    Our subscriptions are tiered. Understanding the task at hand and ironing out the
-                                    wrinkles is key.
+                                    Buyurtmani bajargach, biz mijozni tark etmaymiz. Saytni sizga topshirgandan so’ng, biz
+                                    uni bir yil davomida to’liq texnik qo’llab-quvvatlash va xavfsizligini ta’minlaymiz.
                                 </p>
                             </div>
                         </div>
@@ -880,7 +895,7 @@
                             <button
                                 class="hs-accordion-toggle group pb-3 inline-flex items-center justify-between gap-x-3 w-full md:text-lg font-semibold text-start text-gray-800 rounded-lg transition hover:text-gray-500 focus:outline-none focus:text-gray-500 dark:text-neutral-200 dark:hover:text-neutral-400 dark:focus:text-neutral-400"
                                 aria-expanded="false" aria-controls="hs-basic-with-title-and-arrow-stretched-collapse-four">
-                                How secure is Preline?
+                                Texnik qo'llab-quvvatlash tugaganidan keyin nima bo'ladi?
                                 <svg class="hs-accordion-active:hidden block shrink-0 size-5 text-gray-600 group-hover:text-gray-500 dark:text-neutral-400"
                                     xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
                                     fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
@@ -898,8 +913,7 @@
                                 class="hs-accordion-content hidden w-full overflow-hidden transition-[height] duration-300"
                                 role="region" aria-labelledby="hs-basic-with-title-and-arrow-stretched-heading-four">
                                 <p class="text-gray-600 dark:text-neutral-400">
-                                    Protecting the data you trust to Preline is our first priority. This part is really
-                                    crucial in keeping the project in line to completion.
+                                    Shundan so’ng, texnik xizmat ko’rsatish to’lovi yiliga 100 dollar turadi.
                                 </p>
                             </div>
                         </div>
@@ -908,7 +922,7 @@
                             <button
                                 class="hs-accordion-toggle group pb-3 inline-flex items-center justify-between gap-x-3 w-full md:text-lg font-semibold text-start text-gray-800 rounded-lg transition hover:text-gray-500 focus:outline-none focus:text-gray-500 dark:text-neutral-200 dark:hover:text-neutral-400 dark:focus:text-neutral-400"
                                 aria-expanded="false" aria-controls="hs-basic-with-title-and-arrow-stretched-collapse-five">
-                                How do I get access to a theme I purchased?
+                                Texnik qo'llab-quvvatlashga nimalar kiradi?
                                 <svg class="hs-accordion-active:hidden block shrink-0 size-5 text-gray-600 group-hover:text-gray-500 dark:text-neutral-400"
                                     xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
                                     fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
@@ -926,11 +940,12 @@
                                 class="hs-accordion-content hidden w-full overflow-hidden transition-[height] duration-300"
                                 role="region" aria-labelledby="hs-basic-with-title-and-arrow-stretched-heading-five">
                                 <p class="text-gray-600 dark:text-neutral-400">
-                                    If you lose the link for a theme you purchased, don't panic! We've got you covered. You
-                                    can login to your account, tap your avatar in the upper right corner, and tap Purchases.
-                                    If you didn't create a login or can't remember the information, you can use our handy
-                                    Redownload page, just remember to use the same email you originally made your purchases
-                                    with.
+                                    Xosting va domen ijarasi; <br>
+                                    Har kunlik ma’lumotlarni zaxiraga nusxalash;  <br>
+                                    Yangilanishlarni o’rnatish; <br>
+                                    Viruslar va brutfors hujumlaridan himoya qilish; <br>
+                                    Aptaym monitoringi; <br>
+                                    Kontentni yangilash;
                                 </p>
                             </div>
                         </div>
@@ -939,7 +954,7 @@
                             <button
                                 class="hs-accordion-toggle group pb-3 inline-flex items-center justify-between gap-x-3 w-full md:text-lg font-semibold text-start text-gray-800 rounded-lg transition hover:text-gray-500 focus:outline-none focus:text-gray-500 dark:text-neutral-200 dark:hover:text-neutral-400 dark:focus:text-neutral-400"
                                 aria-expanded="false" aria-controls="hs-basic-with-title-and-arrow-stretched-collapse-six">
-                                Upgrade License Type
+                                Muzokaralar bosqichida bizning ofisimizga uchrashish uchun kela olasizmi?
                                 <svg class="hs-accordion-active:hidden block shrink-0 size-5 text-gray-600 group-hover:text-gray-500 dark:text-neutral-400"
                                     xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
                                     fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
@@ -957,9 +972,61 @@
                                 class="hs-accordion-content hidden w-full overflow-hidden transition-[height] duration-300"
                                 role="region" aria-labelledby="hs-basic-with-title-and-arrow-stretched-heading-six">
                                 <p class="text-gray-600 dark:text-neutral-400">
-                                    There may be times when you need to upgrade your license from the original type you
-                                    purchased and we have a solution that ensures you can apply your original purchase cost
-                                    to the new license purchase.
+                                    Ha albatta. Hamkorlikning barcha tafsilotlarini muhokama qilish uchun oldindan kelishilgan vaqtda siz oldingizga kelishdan xursand bo’lamiz.
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="hs-accordion pt-6 pb-3" id="hs-basic-with-title-and-arrow-stretched-heading-six">
+                            <button
+                                class="hs-accordion-toggle group pb-3 inline-flex items-center justify-between gap-x-3 w-full md:text-lg font-semibold text-start text-gray-800 rounded-lg transition hover:text-gray-500 focus:outline-none focus:text-gray-500 dark:text-neutral-200 dark:hover:text-neutral-400 dark:focus:text-neutral-400"
+                                aria-expanded="false" aria-controls="hs-basic-with-title-and-arrow-stretched-collapse-six">
+                                Siz saytlar yoki xizmatlarni reklama qilish bilan shug’ullanasizmi?
+                                <svg class="hs-accordion-active:hidden block shrink-0 size-5 text-gray-600 group-hover:text-gray-500 dark:text-neutral-400"
+                                    xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                                    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                    stroke-linejoin="round">
+                                    <path d="m6 9 6 6 6-6" />
+                                </svg>
+                                <svg class="hs-accordion-active:block hidden shrink-0 size-5 text-gray-600 group-hover:text-gray-500 dark:text-neutral-400"
+                                    xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                                    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                    stroke-linejoin="round">
+                                    <path d="m18 15-6-6-6 6" />
+                                </svg>
+                            </button>
+                            <div id="hs-basic-with-title-and-arrow-stretched-collapse-six"
+                                class="hs-accordion-content hidden w-full overflow-hidden transition-[height] duration-300"
+                                role="region" aria-labelledby="hs-basic-with-title-and-arrow-stretched-heading-six">
+                                <p class="text-gray-600 dark:text-neutral-400">
+                                    Albatta. Biz sizning veb-saytingiz yoki xizmatlaringizni qidiruv tizimlarida (Google, Yandex) va ijtimoiy tarmoqlarda (Facebook, Instagram) reklama qilishimiz mumkin. So’zlarni to’g’ri tanlash, maqsadli auditoriya filtri, byudjetni tejash va yangi mijozlarni jalb qilish bizning kuchli tomonimizdir.
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="hs-accordion pt-6 pb-3" id="hs-basic-with-title-and-arrow-stretched-heading-six">
+                            <button
+                                class="hs-accordion-toggle group pb-3 inline-flex items-center justify-between gap-x-3 w-full md:text-lg font-semibold text-start text-gray-800 rounded-lg transition hover:text-gray-500 focus:outline-none focus:text-gray-500 dark:text-neutral-200 dark:hover:text-neutral-400 dark:focus:text-neutral-400"
+                                aria-expanded="false" aria-controls="hs-basic-with-title-and-arrow-stretched-collapse-six">
+                                Men Google reklamasida birinchi o'rinni istayman. Buning narxi qancha?
+                                <svg class="hs-accordion-active:hidden block shrink-0 size-5 text-gray-600 group-hover:text-gray-500 dark:text-neutral-400"
+                                    xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                                    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                    stroke-linejoin="round">
+                                    <path d="m6 9 6 6 6-6" />
+                                </svg>
+                                <svg class="hs-accordion-active:block hidden shrink-0 size-5 text-gray-600 group-hover:text-gray-500 dark:text-neutral-400"
+                                    xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                                    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                    stroke-linejoin="round">
+                                    <path d="m18 15-6-6-6 6" />
+                                </svg>
+                            </button>
+                            <div id="hs-basic-with-title-and-arrow-stretched-collapse-six"
+                                class="hs-accordion-content hidden w-full overflow-hidden transition-[height] duration-300"
+                                role="region" aria-labelledby="hs-basic-with-title-and-arrow-stretched-heading-six">
+                                <p class="text-gray-600 dark:text-neutral-400">
+                                    Qidiruv tizimlarida reklama auktsion tizimi orqali amalga oshiriladi. Kim ko’proq pul to’lasa u yuqorida turadi. Narxlar esa bozor tomonidan belgilanadi. O‘zbekistonda bir kunlik o‘rtacha reklama narxi 5-10 dollarni tashkil qiladi.
                                 </p>
                             </div>
                         </div>
@@ -977,16 +1044,17 @@
         <div class="contianer py-16 md:py-20 lg:py-32 mx-auto flex flex-col justify-center items-center lg:gap-y-3">
             <div class="mb-5 py-2 lg:py-3 px-8 dark:text-white text-black  border rounded-full">Hurry up</div>
             <h1
-                class="text-2xl xs:text-3xl sm:text-4xl md:text-5xl lg:text-6xl dark:text-white text-black  font-bold block relative">
-                <span class="gallient"> Ruzmatcee</span> brend bilan
+                class="font-tradeWinds text-xl xs:text-3xl sm:text-4xl md:text-5xl lg:text-6xl dark:text-white text-black  md:font-semibold block relative">
+                <span class="gallient"> Ruzmatcee</span> Brendi Bilan
             </h1>
             <img src="../assets/imgs/shape_122.svg" alt=""
                 class="w-[27vw] lg:w-48 rotate-1 left-24 md:40 lg:left-60 -top-2 lg:-top-8 relative h-6 ">
             <h1
-                class="text-2xl -top-6 relative xs:text-3xl sm:text-4xl md:text-5xl  dark:text-white text-black text-center font-bold tracking-widest block ">
-                Professional Web Sayt Yaratish <br> <span class="text-2xl xs:text-3xl sm:text-4xl md:text-5xl lg:text-4xl" >uchun bugun ajoyib kun</span> </h1>
+                class="font-tradeWinds text-xl -top-6 relative xs:text-3xl sm:text-4xl md:text-5xl lg:text-6xl  dark:text-white text-black text-center md:font-semibold tracking-widest block ">
+                Professional Web Sayt Yaratish <br> <span
+                    class="text-xl xs:text-3xl sm:text-4xl md:text-5xl lg:text-6xl ">Uchun Bugun Ajoyib Kun</span> </h1>
             <a href="#" type="button"
-                class="button mt-4 lg:mt-6 z-30 hover:scale-105  duration-500 rounded-full dark:border-orange-500 border-black text-black hover:text-white border dark:hover:bg-orange-500 hover:bg-black transition font-semibold dark:text-white text-sm sm:text-lg md:text-xl  xl:text-lg max-lg:px-10 max-lg:py-3 lg:px-8 py-3 text-center">Hoziroq
+                class="button mt-4 lg:mt-6 z-30 hover:scale-105  duration-500 rounded-full dark:border-orange-500 border-black text-black hover:text-white border dark:hover:bg-orange-500 hover:bg-black transition md:font-semibold dark:text-white text-sm sm:text-lg md:text-xl  xl:text-lg max-lg:px-10 max-lg:py-3 lg:px-8 py-3 text-center">Hoziroq
                 bog'laning <i class="fa-regular fa-arrow-right -rotate-45 text-white"></i> </a>
         </div>
     </footer>
